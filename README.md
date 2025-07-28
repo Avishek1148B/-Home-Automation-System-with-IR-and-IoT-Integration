@@ -1,6 +1,6 @@
 # -Home-Automation-System-with-IR-and-IoT-Integration
 
-🏠 Home Automation System with IR and IoT Integration
+🏠 Home Automation System with IR and IoT Integration:-
 
 
 This project presents a Home Automation System that combines IR remote control and IoT capabilities for seamless operation of home appliances. Built with the ESP01 microcontroller and Blynk IoT platform, the system offers a cost-effective and user-friendly solution for modern smart homes.
